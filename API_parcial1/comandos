@@ -1,3 +1,5 @@
+crear entorno
+
 pip install fastapi fastapi-sqlalchemy pydantic alembic psycopg2 uvicorn python-dotenv
 
 alembic init alembic **sustituir env.py
