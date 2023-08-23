@@ -1,0 +1,8 @@
+instalar dependencias:
+  npm i express sequelize pg pg-hstore cors --save
+  npm i nodemon -D  (opcional)
+
+
+para ejecutar:
+  si se instala nodemon:  npm start
+  si no xd: node server.js
